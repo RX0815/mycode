@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ncljksajchjklacklasklckn
 cmsaklcmksakclnm
 cmkasklmcklas;lc
@@ -7,11 +7,11 @@ c,;lasmlcmlasmc
 m,clasmclmasl;c
 cmasl;cm;asmc
 cmas;l'cmlas
-=======
+
 cnsaicnasjnacasnkcnklsaklxcsa
 mscklmasklcml;as
 m,c;sa,;c
 m,mmm
 m,clasmclas
 
->>>>>>> main
+
